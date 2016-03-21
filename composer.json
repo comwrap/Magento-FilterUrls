@@ -3,7 +3,7 @@
     "type":"magento-module",
     "license":"GPL-3.0",
     "description":"Module that adds speaking URLs to layered navigation links",
-    "homepage":"https://github.com/Flagbit/Magento-FilterUrls",
+    "homepage":"https://github.com/comwrap/Magento-FilterUrls.git",
     "authors":[
         {
             "name":"Michael Türk",
