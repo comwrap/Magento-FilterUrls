@@ -1,5 +1,5 @@
 {
-    "name":"flagbit/filterUrls",
+    "name":"comwrap_flagbit/filterUrls",
     "type":"magento-module",
     "license":"GPL-3.0",
     "description":"Module that adds speaking URLs to layered navigation links",
